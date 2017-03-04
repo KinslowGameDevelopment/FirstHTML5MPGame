@@ -1,0 +1,30 @@
+{
+  "name": "firsthtml5mpgame",
+  "version": "0.0.1",
+  "description": "This is my first attempt at making a multiplayer HTML5 game.",
+  "main": "app.js",
+  "scripts": {
+    "test": "run.bat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KinslowGameDevelopment/FirstHTML5MPGame.git"
+  },
+  "keywords": [
+    "First",
+    "HTML5",
+    "MP",
+    "Multiplayer",
+    "Game"
+  ],
+  "author": "Kinslow Game Development",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/KinslowGameDevelopment/FirstHTML5MPGame/issues"
+  },
+  "homepage": "https://github.com/KinslowGameDevelopment/FirstHTML5MPGame#readme",
+  "dependencies": {
+    "express": "^4.15.0",
+    "socket.io": "^1.7.3"
+  }
+}
